@@ -1,5 +1,9 @@
-# Game-of-Life-and-Death
+# new-game
+Copied from https://github.com/Saritus/Game-of-Life-and-Death
+fixed some bugs
 
-http://golad.azurewebsites.net
+Install Node.js
 
-based on https://www.youtube.com/watch?v=JkGZ2Hl1l8c
+Open Terminal Navigate to folder and type npm install to install dependencies if not installed
+
+type node server.js to start server and navigate to the url shown in Terminal in your browser.
